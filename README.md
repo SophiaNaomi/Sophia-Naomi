@@ -1,4 +1,4 @@
-#**Olá, Eu sou a Sophia Naomi! Bem-Vindo ao meu perfil!**
+# **Olá, Eu sou a Sophia Naomi! Bem-Vindo ao meu perfil!**
 
 🎓 Estudante de Informática
 💻 Desenvolvimento e Tecnologia
