@@ -1,6 +1,6 @@
 # **Olá, Eu sou a Sophia Naomi! Bem-Vindo ao meu perfil!  ⡞⠳⣄⣀⣠⠞⢷ ֹ۪**
 
-· · ─ ·𖥸· ─ · ·
+
 
 * 🪷 Estudante de Informática
 * 🧸 Desenvolvimento e Tecnologia
@@ -13,13 +13,13 @@
 Tenho interesse pela área de tecnologia e estou construindo minha jornada através dos estudos e da prática. No momento, estou desenvolvendo meus conhecimentos principalmente em Python, além de explorar diferentes conceitos relacionados à programação e ao desenvolvimento de sistemas.
 Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e, futuramente, ingressar no mercado de tecnologia. 🚀
 
-## 🐍 **Atualmente estudando**
+## 📱 **Atualmente estudando**
 
-* 🐍 Python
+* 🍂 Python
 * 💻 Lógica de programação
-* 🧠 Algoritmos e estruturas de dados
+* ⏰ Algoritmos e estruturas de dados
 * 🗃️ Banco de dados
-* 🌐 Desenvolvimento de sistemas
+* ❤️ Desenvolvimento de sistemas
 * 📚 Fundamentos de programação
 
 🌱 Estou no início da minha jornada na programação e sempre buscando aprender algo novo!
