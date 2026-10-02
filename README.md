@@ -6,12 +6,12 @@
 🐍 Estudando Python
 🚀 Em preparação para o mercado de tecnologia
 
-# 💜 **Sobre mim**
+## 💜 **Sobre mim**
 
 Tenho interesse pela área de tecnologia e estou construindo minha jornada através dos estudos e da prática. No momento, estou desenvolvendo meus conhecimentos principalmente em Python, além de explorar diferentes conceitos relacionados à programação e ao desenvolvimento de sistemas.
 Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e, futuramente, ingressar no mercado de tecnologia. 🚀
 
-# 🐍 **Atualmente estudando**
+## 🐍 **Atualmente estudando**
 
 🐍 Python
 💻 Lógica de programação
@@ -22,7 +22,7 @@ Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e, futura
 
 🌱 Estou no início da minha jornada na programação e sempre buscando aprender algo novo!
 
-# 📫 **Contato**
+## 📫 **Contato**
 
 💌 E-mail: sophianaoietec@gmail.com
 
