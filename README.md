@@ -1,7 +1,7 @@
 # **Olá, Eu sou a Sophia Naomi! Bem-Vindo ao meu perfil!**
 
-  🎓 Estudante de Informática
-  💻 Desenvolvimento e Tecnologia
+* 🎓 Estudante de Informática
+* 💻 Desenvolvimento e Tecnologia
 🏫 ETEC Albert Santos Dumont — 1º Módulo (1MI)
 🐍 Estudando Python
 🚀 Em preparação para o mercado de tecnologia
